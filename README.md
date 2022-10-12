@@ -1,6 +1,6 @@
 # JavaScript Ecosystem Resources, and slightly more.
-This repository is for my personal use, I gather some resources about technologies I use,
-and stack them there. <br>
+I try to gather some resources about some of the technologies I use (JS Here),
+and put them there. <br>
 Most of these resources are free, those that are not will have a :dollar: emoji. <br>
 Some of these resources may be « old », but are still relevant, in the sence that the
 related topic does not change often and the knowledge seems good for the current context.
@@ -13,10 +13,14 @@ related topic does not change often and the knowledge seems good for the current
 > Anything related to TS primarily. (Most of the content is focus on TS no matter the context)
 ### [Node.js](#node.js-related)
 > Anything related to Node.js primarily, even with TS. (Most of the content is focus on Node.js no matter the context)
+### [Deno](#deno-related)
+> Anything related to Deno primarily, even with TS. (Most of the content is focus on Deno no matter the context)
 
 <br><hr>
 
 ## CS Related
+### Articles/Websites:
+
 ### Books/EBooks:
 
 ### Videos/Courses:
@@ -45,9 +49,12 @@ related topic does not change often and the knowledge seems good for the current
 ## Typescript related
 ### Articles/Websites:
 
+### Books/EBooks:
+
 ### Videos:
 
 ### Long Videos/Courses:
+- **TypeScript crash course** by **Matt Pocock**: https://www.youtube.com/watch?v=p6dO9u0M7MQ&list=PLTUYRo-EZ_nlMS3ZlDGMxjMOmh7QqCX3d
 
 <br><hr>
 
@@ -56,11 +63,24 @@ related topic does not change often and the knowledge seems good for the current
 ### Articles/Websites:
 - **Introduction to Node.js**: https://nodejs.dev/en/learn/
 
+### Books/EBooks:
+
 ### Videos:
 - **Take your HTTP server to Ludicrous speed** by **Matteo Collina**: https://www.youtube.com/watch?v=gltzZjKYK1I&list=PLTUYRo-EZ_nkjPPHrnalBjyFBTuwKJzNx
 - **Node's Event Loop from the Inside out** by **Sam Roberts**: https://www.youtube.com/watch?v=P9csgxBgaZ8&list=PLTUYRo-EZ_nkjPPHrnalBjyFBTuwKJzNx
 - **Node.js Internal Architecture** by **Gabriel Zimmermann**: https://www.youtube.com/watch?v=OCjvhCFFPTw
 - **Everything you need to know about Node.js Event Loop** by **Bert Belder**: https://www.youtube.com/watch?v=PNa9OMajw9w&list=PLTUYRo-EZ_nkjPPHrnalBjyFBTuwKJzNx&index=20
 - **You don't know Node** by **Samer Buna**: https://www.youtube.com/watch?v=oPo4EQmkjvY&list=PLTUYRo-EZ_nkjPPHrnalBjyFBTuwKJzNx
+
+### Long Videos/Courses:
+
+<br><hr>
+
+## Deno related
+### Articles/Websites:
+
+### Books/EBooks:
+
+### Videos:
 
 ### Long Videos/Courses:
