@@ -5,7 +5,7 @@ Most of these resources are free, those that are not will have a :dollar: emoji.
 
 ### CS Related
 > Resources about computer science, back-end/front-end engineering in general, without Libs/Frameworks heavy content.
-### [JavaScript](#-javascript)
+### [JavaScript](#javascript-related)
 > Anything related to JS primarily. (Most of the content is focus on JS no matter the context)
 ### TypeScript
 > Anything related to TS primarily. (Most of the content is focus on TS no matter the context)
@@ -22,7 +22,7 @@ Most of these resources are free, those that are not will have a :dollar: emoji.
 
 <br><hr>
 
-## JavaScript
+## JavaScript related
 ### Articles/Websites:
 - **MDN from Mozilla**: https://developer.mozilla.org/fr/docs/Learn/JavaScript
 - **JavaScript.Info**: https://javascript.info/
