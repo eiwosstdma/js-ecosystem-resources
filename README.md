@@ -1,5 +1,5 @@
 # JavaScript Ecosystem Resources, and slightly more.
-I try to gather some resources about some of the technologies I use (JS Here),
+I try to gather some resources about some of the technologies I use, here about JS,
 and put them there. <br>
 Most of these resources are free, those that are not will have a :dollar: emoji. <br>
 Some of these resources may be « old », but are still relevant, in the sense that the
