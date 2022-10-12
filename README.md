@@ -1,5 +1,5 @@
 # JavaScript Ecosystem Resources, and slightly more.
-I try to gather some resources about some of the technologies I use, here about JS,
+I try to gather some resources about some of the technologies I use (JS Here),
 and put them there. <br>
 Most of these resources are free, those that are not will have a :dollar: emoji. <br>
 Some of these resources may be « old », but are still relevant, in the sense that the
@@ -16,7 +16,7 @@ related topic does not change often and the knowledge seems good for the current
 ### [Deno](#deno-related)
 > Anything related to Deno primarily, even with TS. (Most of the content is focus on Deno no matter the context)
 ### [Other](#other-content)
-> Anything Framework/Libraries heavy content related to the JS Ecosystem, no matter what is the runtime. 
+> Anything Framework/Libraries heavy content related to the JS Ecosystem, no matter what is the runtime.
 > Also stuff related to anything JS but in other programming language ecosystem,
 > like embedding JS Engines, etc.
 
