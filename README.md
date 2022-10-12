@@ -23,40 +23,33 @@ related topic does not change often and the knowledge seems good for the current
 <br><hr>
 
 ## CS Related
-### Articles/Websites:
-
-### Books/EBooks:
-
 ### Videos/Courses:
 - **The Last Algorithms Course You'll Need** by **ThePrimeagen**: https://frontendmasters.com/courses/algorithms/
 
 <br><hr>
 
 ## JavaScript related
-### Articles/Websites:
-- **MDN from Mozilla**: https://developer.mozilla.org/fr/docs/Learn/JavaScript
-- **JavaScript.Info**: https://javascript.info/
+### Articles:
 - **Why are promises better than callbacks** by **Samer buna**: https://medium.com/edge-coders/why-are-promises-better-than-callbacks-c16f8ff1ae1e
 
 ### Books/EBooks:
 - **You Don't Know JS** by **Kyle Simpson**: https://github.com/getify/You-Dont-Know-JS
 
 ### Videos:
+- **In the loop** by **Jake archibald**: https://www.youtube.com/watch?v=cCOL7MC4Pl0
 
 ### Long Videos/Courses:
 - **Getting Started with JavaScript, v2** by **Kyle Simpson**: https://frontendmasters.com/courses/getting-started-javascript-v2/
 - **Understand the weirds parts** by **Tony Alicea**: https://www.youtube.com/watch?v=Bv_5Zv5c-Ts
 - :dollar: **The Hard Parts, v2** by **Will Sentance**: https://frontendmasters.com/courses/javascript-hard-parts-v2/
 
+### Websites/Other:
+- **MDN from Mozilla**: https://developer.mozilla.org/fr/docs/Learn/JavaScript
+- **JavaScript.Info**: https://javascript.info/
+
 <br><hr>
 
 ## Typescript related
-### Articles/Websites:
-
-### Books/EBooks:
-
-### Videos:
-
 ### Long Videos/Courses:
 - **TypeScript crash course** by **Matt Pocock**: https://www.youtube.com/watch?v=p6dO9u0M7MQ&list=PLTUYRo-EZ_nlMS3ZlDGMxjMOmh7QqCX3d
 
@@ -64,10 +57,8 @@ related topic does not change often and the knowledge seems good for the current
 
 ## Node.js related
 > The Node.js website is a good resource, it explains everything you need to get started, and more, so always check it before anything else.
-### Articles/Websites:
+### Articles:
 - **Introduction to Node.js**: https://nodejs.dev/en/learn/
-
-### Books/EBooks:
 
 ### Videos:
 - **Take your HTTP server to Ludicrous speed** by **Matteo Collina**: https://www.youtube.com/watch?v=gltzZjKYK1I&list=PLTUYRo-EZ_nkjPPHrnalBjyFBTuwKJzNx
@@ -76,26 +67,11 @@ related topic does not change often and the knowledge seems good for the current
 - **Everything you need to know about Node.js Event Loop** by **Bert Belder**: https://www.youtube.com/watch?v=PNa9OMajw9w&list=PLTUYRo-EZ_nkjPPHrnalBjyFBTuwKJzNx&index=20
 - **You don't know Node** by **Samer Buna**: https://www.youtube.com/watch?v=oPo4EQmkjvY&list=PLTUYRo-EZ_nkjPPHrnalBjyFBTuwKJzNx
 
-### Long Videos/Courses:
-
 <br><hr>
 
 ## Deno related
-### Articles/Websites:
 
-### Books/EBooks:
-
-### Videos:
-
-### Long Videos/Courses:
 
 <br><hr>
 
 ## Other content
-### Articles/Websites:
-
-### Books/EBooks:
-
-### Videos:
-
-### Long Videos/Courses:
