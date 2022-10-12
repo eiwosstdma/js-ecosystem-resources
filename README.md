@@ -1,15 +1,17 @@
 # JavaScript Ecosystem Resources, and slightly more.
 This repository is for my personal use, I gather some resources about technologies I use,
 and stack them there. <br>
-Most of these resources are free, those that are not will have a :dollar: emoji.
+Most of these resources are free, those that are not will have a :dollar: emoji. <br>
+Some of these resources may be « old », but are still relevant, in the sence that the
+related topic does not change often and the knowledge seems good for the current context.
 
-### CS Related
+### [Computer science related](#cs-related)
 > Resources about computer science, back-end/front-end engineering in general, without Libs/Frameworks heavy content.
 ### [JavaScript](#javascript-related)
 > Anything related to JS primarily. (Most of the content is focus on JS no matter the context)
-### TypeScript
+### [TypeScript](#typescript-related)
 > Anything related to TS primarily. (Most of the content is focus on TS no matter the context)
-### Node.js
+### [Node.js](#node.js-related)
 > Anything related to Node.js primarily, even with TS. (Most of the content is focus on Node.js no matter the context)
 
 <br><hr>
@@ -26,6 +28,7 @@ Most of these resources are free, those that are not will have a :dollar: emoji.
 ### Articles/Websites:
 - **MDN from Mozilla**: https://developer.mozilla.org/fr/docs/Learn/JavaScript
 - **JavaScript.Info**: https://javascript.info/
+- **Why are promises better than callbacks** by **Samer buna**: https://medium.com/edge-coders/why-are-promises-better-than-callbacks-c16f8ff1ae1e
 
 ### Books/EBooks:
 - **You Don't Know JS** by **Kyle Simpson**: https://github.com/getify/You-Dont-Know-JS
@@ -39,8 +42,17 @@ Most of these resources are free, those that are not will have a :dollar: emoji.
 
 <br><hr>
 
-## Node.js
-> The Node.js website is full of good resources, it explains everything you need to get started, so always check it before anything else!
+## Typescript related
+### Articles/Websites:
+
+### Videos:
+
+### Long Videos/Courses:
+
+<br><hr>
+
+## Node.js related
+> The Node.js website is a good resource, it explains everything you need to get started, and more, so always check it before anything else.
 ### Articles/Websites:
 - **Introduction to Node.js**: https://nodejs.dev/en/learn/
 
