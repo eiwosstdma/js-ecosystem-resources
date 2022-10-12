@@ -2,7 +2,7 @@
 I try to gather some resources about some of the technologies I use (JS Here),
 and put them there. <br>
 Most of these resources are free, those that are not will have a :dollar: emoji. <br>
-Some of these resources may be « old », but are still relevant, in the sence that the
+Some of these resources may be « old », but are still relevant, in the sense that the
 related topic does not change often and the knowledge seems good for the current context.
 
 ### [Computer science related](#cs-related)
@@ -15,6 +15,10 @@ related topic does not change often and the knowledge seems good for the current
 > Anything related to Node.js primarily, even with TS. (Most of the content is focus on Node.js no matter the context)
 ### [Deno](#deno-related)
 > Anything related to Deno primarily, even with TS. (Most of the content is focus on Deno no matter the context)
+### [Other](#other-content)
+> Anything Framework/Libraries heavy content related to the JS Ecosystem, no matter what is the runtime. 
+> Also stuff related to anything JS but in other programming language ecosystem,
+> like embedding JS Engines, etc.
 
 <br><hr>
 
@@ -77,6 +81,17 @@ related topic does not change often and the knowledge seems good for the current
 <br><hr>
 
 ## Deno related
+### Articles/Websites:
+
+### Books/EBooks:
+
+### Videos:
+
+### Long Videos/Courses:
+
+<br><hr>
+
+## Other content
 ### Articles/Websites:
 
 ### Books/EBooks:
