@@ -22,13 +22,13 @@ related topic does not change often and the knowledge seems good for the current
 
 <br><hr>
 
-## CS Related
+## CS Related ![](./img/shell-32px.png) ![](./img/db-32px.png)
 ### Videos/Courses:
 - **The Last Algorithms Course You'll Need** by **ThePrimeagen**: https://frontendmasters.com/courses/algorithms/
 
 <br><hr>
 
-## JavaScript related
+## JavaScript related ![](./img/js-32px.png)
 ### Articles:
 - **Why are promises better than callbacks** by **Samer buna**: https://medium.com/edge-coders/why-are-promises-better-than-callbacks-c16f8ff1ae1e
 
@@ -49,13 +49,13 @@ related topic does not change often and the knowledge seems good for the current
 
 <br><hr>
 
-## Typescript related
+## Typescript related ![](./img/ts-32px.png)
 ### Long Videos/Courses:
 - **TypeScript crash course** by **Matt Pocock**: https://www.youtube.com/watch?v=p6dO9u0M7MQ&list=PLTUYRo-EZ_nlMS3ZlDGMxjMOmh7QqCX3d
 
 <br><hr>
 
-## Node.js related
+## Node.js related ![](./img/node-32px.png)
 > The Node.js website is a good resource, it explains everything you need to get started, and more, so always check it before anything else.
 ### Articles:
 - **Introduction to Node.js**: https://nodejs.dev/en/learn/
@@ -69,9 +69,20 @@ related topic does not change often and the knowledge seems good for the current
 
 <br><hr>
 
-## Deno related
+## Deno related ![](./img/deno-32px.png)
 
 
 <br><hr>
 
 ## Other content
+
+<br><br><br><br><hr>
+
+### Atribution for icons
+https://icon-icons.com/icon/javascript/130900 <br>
+https://icon-icons.com/icon/file-type-typescript-official/130107 <br>
+https://icon-icons.com/icon/nodejs-plain-logo/146409 <br>
+https://icon-icons.com/icon/deno-logo/145346 <br>
+https://icon-icons.com/icon/office-database/104403 <br>
+https://icon-icons.com/icon/window-programming/48366 <br>
+https://icon-icons.com/icon/code-outlined-programming-signs/81143
