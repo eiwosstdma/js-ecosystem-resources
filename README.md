@@ -1,12 +1,16 @@
 # JavaScript Ecosystem Resources, and slightly more.
-I try to gather some resources about some of the technologies I use (JS Here),
+I try to gather some resources about some of the technologies I use,
 and put them there. <br>
 Most of these resources are free, those that are not will have a :dollar: emoji. <br>
 Some of these resources may be « old », but are still relevant, in the sense that the
 related topic does not change often and the knowledge seems good for the current context.
 
+All resources, channels or whatever, should be in English, to help the most possible numbers of people.
+
 ### [Computer science related](#cs-related)
-> Resources about computer science, back-end/front-end engineering in general, without Libs/Frameworks heavy content.
+> Resources about computer science, back-end/front-end engineering in general, without Libs/Frameworks heavy content (JS ones).
+> Resources about Databases, mostly within the context of Node.js and Deno (Any way to persist data). Resources within the programming
+> context but not primarily related to JavaScript. (Clean code, etc)
 ### [JavaScript](#javascript-related)
 > Anything related to JS primarily. (Most of the content is focus on JS no matter the context)
 ### [TypeScript](#typescript-related)
@@ -19,12 +23,15 @@ related topic does not change often and the knowledge seems good for the current
 > Anything Framework/Libraries heavy content related to the JS Ecosystem, no matter what is the runtime.
 > Also stuff related to anything JS but in other programming language ecosystem,
 > like embedding JS Engines, etc.
+### [Attributions](#attribution-for-icons)
+> Anything icons/images attributions
 
 <br><hr>
 
 ## CS Related ![](./img/shell-32px.png) ![](./img/db-32px.png)
-### Videos/Courses:
+### Long Videos/Courses:
 - **The Last Algorithms Course You'll Need** by **ThePrimeagen**: https://frontendmasters.com/courses/algorithms/
+- :dollar: **Complete Intro to SQL & PostgreSQL** by **Brian Holt**: https://frontendmasters.com/courses/sql/
 
 <br><hr>
 
@@ -37,6 +44,7 @@ related topic does not change often and the knowledge seems good for the current
 
 ### Videos:
 - **In the loop** by **Jake archibald**: https://www.youtube.com/watch?v=cCOL7MC4Pl0
+- **High Performance JS in V8** by **Peter Marshall**: https://www.youtube.com/watch?v=YqOhBezMx1o&list=PLTUYRo-EZ_nmsQF1RovBS19xHEYiQRrum&index=20
 
 ### Long Videos/Courses:
 - **Getting Started with JavaScript, v2** by **Kyle Simpson**: https://frontendmasters.com/courses/getting-started-javascript-v2/
@@ -71,18 +79,18 @@ related topic does not change often and the knowledge seems good for the current
 
 ## Deno related ![](./img/deno-32px.png)
 
-
 <br><hr>
 
 ## Other content
 
+
 <br><br><br><br><hr>
 
-### Atribution for icons
-https://icon-icons.com/icon/javascript/130900 <br>
-https://icon-icons.com/icon/file-type-typescript-official/130107 <br>
-https://icon-icons.com/icon/nodejs-plain-logo/146409 <br>
-https://icon-icons.com/icon/deno-logo/145346 <br>
-https://icon-icons.com/icon/office-database/104403 <br>
-https://icon-icons.com/icon/window-programming/48366 <br>
-https://icon-icons.com/icon/code-outlined-programming-signs/81143
+## Attribution for icons
+- Javascript icon: https://icon-icons.com/icon/javascript/130900 <br>
+- TypeScript icon: https://icon-icons.com/icon/file-type-typescript-official/130107 <br>
+- Node.js icon: https://icon-icons.com/icon/nodejs-plain-logo/146409 <br>
+- Deno icon: https://icon-icons.com/icon/deno-logo/145346 <br>
+- Database icon: https://icon-icons.com/icon/office-database/104403 <br>
+- Programming Shell icon: https://icon-icons.com/icon/window-programming/48366 <br>
+- Programming Brackets icon: https://icon-icons.com/icon/code-outlined-programming-signs/81143
