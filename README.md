@@ -36,6 +36,9 @@ All resources, channels or whatever, should be in English, to help the most poss
 <br><hr>
 
 ## JavaScript related ![](./img/js-32px.png)
+### Official website resources
+- https://tc39.es/
+
 ### Articles:
 - **Why are promises better than callbacks** by **Samer buna**: https://medium.com/edge-coders/why-are-promises-better-than-callbacks-c16f8ff1ae1e
 
@@ -58,6 +61,9 @@ All resources, channels or whatever, should be in English, to help the most poss
 <br><hr>
 
 ## Typescript related ![](./img/ts-32px.png)
+### Official website resources
+- https://www.typescriptlang.org/docs/
+
 ### Long Videos/Courses:
 - **TypeScript crash course** by **Matt Pocock**: https://www.youtube.com/watch?v=p6dO9u0M7MQ&list=PLTUYRo-EZ_nlMS3ZlDGMxjMOmh7QqCX3d
 
@@ -65,6 +71,10 @@ All resources, channels or whatever, should be in English, to help the most poss
 
 ## Node.js related ![](./img/node-32px.png)
 > The Node.js website is a good resource, it explains everything you need to get started, and more, so always check it before anything else.
+### Official website resources
+- https://nodejs.org/en/docs/
+- https://nodejs.dev/en/learn/
+
 ### Articles:
 - **Introduction to Node.js**: https://nodejs.dev/en/learn/
 
@@ -78,6 +88,9 @@ All resources, channels or whatever, should be in English, to help the most poss
 <br><hr>
 
 ## Deno related ![](./img/deno-32px.png)
+### Official website resources
+- https://deno.land/manual@v1.26.1/introduction
+- https://deno.land/api
 
 <br><hr>
 
