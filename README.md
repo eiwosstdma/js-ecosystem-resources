@@ -1,5 +1,5 @@
 # JavaScript Ecosystem Resources, and slightly more.
-I try to gather some resources about some of the technologies I use,
+I try to gather some modern resources about some of the technologies I use,
 and put them there. <br>
 Most of these resources are free, those that are not will have a :dollar: emoji. <br>
 Some of these resources may be « old », but are still relevant, in the sense that the
@@ -32,6 +32,15 @@ All resources, channels or whatever, should be in English, to help the most poss
 ### Long Videos/Courses:
 - **The Last Algorithms Course You'll Need** by **ThePrimeagen**: https://frontendmasters.com/courses/algorithms/
 - :dollar: **Complete Intro to SQL & PostgreSQL** by **Brian Holt**: https://frontendmasters.com/courses/sql/
+
+### Roadmaps by **roadmap.sh**:
+- Backend roadmap: https://roadmap.sh/backend
+- Frontend roadmap: https://roadmap.sh/frontend
+- JavaScript roadmap: https://roadmap.sh/javascript
+- Node.js roadmap: https://roadmap.sh/nodejs
+
+### Useful links:
+- https://wiki.c2.com/
 
 <br><hr>
 
@@ -79,11 +88,14 @@ All resources, channels or whatever, should be in English, to help the most poss
 - **Introduction to Node.js**: https://nodejs.dev/en/learn/
 
 ### Videos:
+- **Introduction to the Node.js reference architecture** by **Michael Dawson** and **Lucas Holmquist**: https://developers.redhat.com/blog/2021/03/08/introduction-to-the-node-js-reference-architecture-part-1-overview and https://github.com/nodeshift/nodejs-reference-architecture 
 - **Take your HTTP server to Ludicrous speed** by **Matteo Collina**: https://www.youtube.com/watch?v=gltzZjKYK1I&list=PLTUYRo-EZ_nkjPPHrnalBjyFBTuwKJzNx
 - **Node's Event Loop from the Inside out** by **Sam Roberts**: https://www.youtube.com/watch?v=P9csgxBgaZ8&list=PLTUYRo-EZ_nkjPPHrnalBjyFBTuwKJzNx
 - **Node.js Internal Architecture** by **Gabriel Zimmermann**: https://www.youtube.com/watch?v=OCjvhCFFPTw
 - **Everything you need to know about Node.js Event Loop** by **Bert Belder**: https://www.youtube.com/watch?v=PNa9OMajw9w&list=PLTUYRo-EZ_nkjPPHrnalBjyFBTuwKJzNx&index=20
 - **You don't know Node** by **Samer Buna**: https://www.youtube.com/watch?v=oPo4EQmkjvY&list=PLTUYRo-EZ_nkjPPHrnalBjyFBTuwKJzNx
+- **Choosing the best Node.js docker image** by **Liran Tal**: https://dev.to/snyk/choosing-the-best-nodejs-docker-image-2d25
+- **Choosing web frameworks** by **Beth Griggs**: https://developers.redhat.com/articles/2021/12/03/introduction-nodejs-reference-architecture-part-6-choosing-web-frameworks
 
 <br><hr>
 
